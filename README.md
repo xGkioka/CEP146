@@ -1,21 +1,23 @@
-# 🧠 AI Programming Tools
+# ai-programming-tools
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active_Development-orange?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Productivity-orange)
 
-A suite of lightweight, modular Python utilities designed to automate the repetitive parts of software engineering. This repository provides wrappers and prompt-engineering scripts to leverage LLMs (Large Language Models) for tasks like code refactoring, automated documentation, and unit test generation.
+A collection of essential tools and documentation designed to leverage Artificial Intelligence for software engineering and decision-making. These resources aim to streamline the development workflow and enhance technical decision-making through AI-driven insights.
 
-## 🚀 Features
+## 🛠️ Tools & Resources
 
-- **Automated Refactoring:** turning "spaghetti code" into clean, SOLID-compliant functions.
-- **Docstring Generator:** Automatically writes Google-style docstrings for undocumented functions.
-- **Unit Test Writer:** Analyzes code logic and generates `pytest` coverage.
-- **Complexity Analyzer:** Explains dense code snippets in plain English.
+- **AI Resume Classifier (NLP + ML):** A tool that uses Natural Language Processing and Machine Learning to categorize and analyze resumes, helping recruiters and developers optimize their profiles.
+- **Effective AI Prompting:** A comprehensive guide on crafting high-quality prompts to get the most out of Large Language Models (LLMs) for coding and documentation.
+- **Neural Network Simulation:** A conceptual guide and simulation illustrating how neural networks adjust weights and make decisions, providing a deep dive into the mechanics of AI.
+- **Software Licensing:** Documentation and analysis of different software licenses, essential for open-source and commercial development.
 
-## 🛠️ Installation
+## 💡 Why These Tools?
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/XenofonGk/ai-programming-tools.git](https://github.com/XenofonGk/ai-programming-tools.git)
-   cd ai-programming-tools
+- **Efficiency:** Automate repetitive tasks such as resume screening and initial documentation.
+- **Precision:** Learn to communicate more effectively with AI through structured prompting techniques.
+- **Knowledge:** Gain a deeper understanding of the underlying technology that powers modern AI tools.
+- **Compliance:** Ensure your projects follow the correct legal and open-source standards.
+
+---
+*Developed by Xenofon Gkioka*
