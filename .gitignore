@@ -1,0 +1,6 @@
+
+# trained model is a build artifact
+model/
+__pycache__/
+*.pyc
+.venv/
